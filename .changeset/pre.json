@@ -230,5 +230,11 @@
     "@backstage/plugin-vault-backend": "0.3.2",
     "@backstage/plugin-xcmetrics": "0.2.39"
   },
-  "changesets": []
+  "changesets": [
+    "create-app-1687605764",
+    "dirty-wasps-draw",
+    "many-ants-poke",
+    "purple-starfishes-design",
+    "short-rabbits-roll"
+  ]
 }
